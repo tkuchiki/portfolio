@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on tkuchiki&#39;s portfolio</title>
+    <link>https://portfolio.tkuchiki.net/blogs/</link>
+    <description>Recent content in Blogs on tkuchiki&#39;s portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    
+	<atom:link href="https://portfolio.tkuchiki.net/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ブログ</title>
+      <link>https://portfolio.tkuchiki.net/blogs/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolio.tkuchiki.net/blogs/blog/</guid>
+      <description>https://blog.tkuchiki.net Netlify + gatsby で構築 textlint + CircleCI で文章チェックと CI 詳細: 本ブログの構成</description>
+    </item>
+    
+    <item>
+      <title>旧ブログ</title>
+      <link>https://portfolio.tkuchiki.net/blogs/old/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolio.tkuchiki.net/blogs/old/</guid>
+      <description>https://tkuchiki.hatenablog.com はてなブックマーク人気順</description>
+    </item>
+    
+  </channel>
+</rss>

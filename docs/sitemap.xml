@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/github/alp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/github/wireray/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/github/go-timezone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/github/encrypt-pw/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/github/mackerel-plugin-linux-proc-stats/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/github/aws-cert-utils/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/github/faketime/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/github/ssmenv/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/github/ghooks-cmd-runner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/github/rundeck-consul-nodes-plugin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/github/parsetime/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/github/norikra-listener-zabbix/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/slides/kayac_pepabo/</loc>
+    <lastmod>2017-01-26T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/slides/yapc_asia_tokyo_2015/</loc>
+    <lastmod>2015-08-22T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/blogs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/github/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/slides/</loc>
+    <lastmod>2017-01-26T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/</loc>
+    <lastmod>2017-01-26T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/blogs/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.tkuchiki.net/blogs/old/</loc>
+  </url>
+  
+</urlset>

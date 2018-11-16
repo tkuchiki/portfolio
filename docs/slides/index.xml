@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides on tkuchiki&#39;s portfolio</title>
+    <link>https://portfolio.tkuchiki.net/slides/</link>
+    <description>Recent content in Slides on tkuchiki&#39;s portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 26 Jan 2017 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://portfolio.tkuchiki.net/slides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>カヤック &amp; ペパボ合同勉強会</title>
+      <link>https://portfolio.tkuchiki.net/slides/kayac_pepabo/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://portfolio.tkuchiki.net/slides/kayac_pepabo/</guid>
+      <description>2017/01/26 カヤック &amp;amp; ペパボ合同勉強会 2年間運用しているソーシャルゲームのサーバ構成の変遷</description>
+    </item>
+    
+    <item>
+      <title>YAPC::Asia TOKYO 2015</title>
+      <link>https://portfolio.tkuchiki.net/slides/yapc_asia_tokyo_2015/</link>
+      <pubDate>Sat, 22 Aug 2015 00:00:00 +0900</pubDate>
+      
+      <guid>https://portfolio.tkuchiki.net/slides/yapc_asia_tokyo_2015/</guid>
+      <description>2015/08/22 YAPC::Asia TOKYO 2015 ソーシャルゲームにおける AWS 移行事例</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+baseURL = "https://portfolio.tkuchiki.net"
+languageCode = "ja-jp"
+title = "tkuchiki's portfolio"
+theme = "saito-boilerplate"
+
+hasCJKLanguage = true # if your site has CJK language, set true
+canonifyurls = true
+paginate = 30 # default number of pages per page in pagination
+publishDir = "docs" # if you use GitHub to deploy
+#disqusShortname = "yourdisqusshortname"
+#googleAnalytics = "UA-123-45" # to enable Disqus and Google Analytics
+
+[params]
+    description = "tkuchiki's portfolio"
+    keywords = "portfolio"
+    images = [""] # your site-wide thumbnail image used in Twitter card and opengraph
+
+[author]
+    name = "tkuchiki"
+
+[social] # to enable social links, add your account names
+    twitter = "tkuchiki"
+    facebook = ""
+    facebook_admin = "" # enables facebook opengraph
+    linkedin = ""
+    instagram = ""
+    googleplus = ""
+    github = "tkuchiki"
+    gitlab = ""
+    pinterest = ""
+    tumblr = ""
+    vimeo = ""
+    youtube = ""
+
+# if you want markdown WYSIWYG line break
+[blackfriday]
+    extensions = ["hardLineBreak"]
+
+# main menu
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+[[menu.main]]
+    name = "GitHub"
+    url = "/github/"
+    weight = 2
+[[menu.main]]
+    name = "Slides"
+    url = "/slides/"
+    weight = 3
+[[menu.main]]
+    name = "Blog"
+    url = "/blogs/"
+    weight = 4
